@@ -1,6 +1,6 @@
 import MapView from './components/mapView/MapView'
 
-import './App.css'
+// import './App.css'
 
 function App() {
 
